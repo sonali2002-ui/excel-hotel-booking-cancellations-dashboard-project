@@ -1,8 +1,8 @@
-# 🏨 Hotel Booking Cancellations Dashboard
+## 🏨 Hotel Booking Cancellations Dashboard
 
 This project is an interactive Excel-based dashboard that visualizes hotel booking and cancellation data from the years 2015 to 2017. The dashboard provides valuable insights into cancellation patterns, guest behavior, and room preferences to help hotel management improve operations and forecasting.
 
-# 📁 Overview
+## 📁 Overview
 
 •	Year-wise bookings and cancellations
 
@@ -15,7 +15,7 @@ This project is an interactive Excel-based dashboard that visualizes hotel booki
 •	Hotel type comparison (City vs Resort)
 
 
-# 📁 Tools Used
+## 📁 Tools Used
 
 •	Microsoft Excel
 
@@ -24,11 +24,11 @@ This project is an interactive Excel-based dashboard that visualizes hotel booki
 •	Slicers for year filtering
 
 
-# 📌 Features
+## 📌 Features
 
   📅 Time Filter: Select
   
-# 📁 Files Used
+## 📁 Files Used
 
 •	Hotel_Booking_Cancellations_Dashboard.xlsx – Interactive Excel dashboard with filters and charts                                                                                                                    
   (https://github.com/sonali2002-ui/excel-hotel-booking-cancellations-project/blob/main/Dashboard%20(Hotel%20Booking%20Cancellations).xlsx)      
