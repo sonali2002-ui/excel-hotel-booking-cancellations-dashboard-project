@@ -27,10 +27,3 @@ Slicers for year filtering
 # 📌 Features
 
   📅 Time Filter: Select
-
-
-
-
-
-
-Use this dashboard for hotel insights, forecasting, or operational planning.
