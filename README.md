@@ -4,24 +4,24 @@ This project is an interactive Excel-based dashboard that visualizes hotel booki
 
 # 📁 Overview
 
-Year-wise bookings and cancellations
+•	Year-wise bookings and cancellations
 
-Room status impact (Desired vs Undesired)
+•	Room status impact (Desired vs Undesired)
 
-Customer type analysis (Couples, Families, Singles)
+•	Customer type analysis (Couples, Families, Singles)
 
-Monthly cancellation trends
+•	Monthly cancellation trends
 
-Hotel type comparison (City vs Resort)
+•	Hotel type comparison (City vs Resort)
 
 
 # 📁 Tools Used
 
-Microsoft Excel
+•	Microsoft Excel
 
-Pivot Tables & Charts
+•	Pivot Tables & Charts
 
-Slicers for year filtering
+•	Slicers for year filtering
 
 
 # 📌 Features
