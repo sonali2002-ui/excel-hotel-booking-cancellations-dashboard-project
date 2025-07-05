@@ -31,7 +31,7 @@ This project is an interactive Excel-based dashboard that visualizes hotel booki
 # 📁 Files Used
 
 •	Hotel_Booking_Cancellations_Dashboard.xlsx – Interactive Excel dashboard with filters and charts                                                                                                                    
-(https://github.com/sonali2002-ui/excel-hotel-booking-cancellations-project/blob/main/Dashboard%20(Hotel%20Booking%20Cancellations).xlsx)      
+  (https://github.com/sonali2002-ui/excel-hotel-booking-cancellations-project/blob/main/Dashboard%20(Hotel%20Booking%20Cancellations).xlsx)      
 
 •	dashboard.png – Screenshot preview of the Excel dashboard for quick reference.                                                                                                                                       
   (https://github.com/sonali2002-ui/excel-hotel-booking-cancellations-project/blob/main/dashboard.png)
